@@ -1,0 +1,32 @@
+                                  **DAY 1**  
+
+▬▬▬ Introduction to python ▬▬▬  
+
+print("Hello Ridhu") # print is a function
+
+▬▬▬ Variables ▬▬▬
+
+name =  "Ridhi Sharma" # name is a variable
+
+print(name) # print the variable
+ 
+▬▬▬ Boolian Variables ▬▬▬ 
+
+name = "Ridhi Sharma" # name is a variable
+age = 8 # age is a variable
+is_cute = True  # is_cute is a variable 
+
+print("Hello" + name + !)   # print the variable
+print(age) # print the variable
+print(is_cute)  # print the variable
+
+▬▬▬ Taking Inputs ▬▬▬ 
+
+name = input("Enter your name: ") # name is a variable
+print("Hello " + name)  # print the variable
+print("hello ridhu your so cute i love u!")
+
+▬▬▬ Type Conversion ▬▬▬ 
+old_age = input("Enter your old age: ") # old_age is a variable
+new_age = int(old_age) + 5 # getting old age and converting it to new age
+print(new_age)  # print the variable 
