@@ -1,10 +1,19 @@
-age = 1
+first =  input( "Enter your first number: ")
+operator = input("Enter your operator: ")
+second = input("Enter your second number: ")
 
-if age >= 18:
-   print("you are an adult")
-   print("you can vote")
-elif age < 3:
-   print("you are a child")
+first = int(first)
+second = int(second)
+
+if operator == "+":
+    print(first + second)
+elif operator == "-":
+    print(first - second)
+elif operator == "*":
+    print(first * second)
+elif operator == "/":
+    print(first / second)
+elif operator == "%":
+    print(first % second)
 else:
-   print("you are in school")
-print("thank you") 
+     print("Invalid Operation")           
