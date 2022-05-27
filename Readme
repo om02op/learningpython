@@ -30,3 +30,74 @@ print("hello ridhu your so cute i love u!")
 old_age = input("Enter your old age: ") # old_age is a variable
 new_age = int(old_age) + 5 # getting old age and converting it to new age
 print(new_age)  # print the variable 
+
+
+                                      ▬▬▬ DAY 2 ▬▬▬
+
+▬▬▬ Keywords ▬▬▬
+name =  Ridhu Sharma
+
+print('Ridhu'in name )
+
+▬▬▬ Arithmetic Operators ▬▬▬
+print(5 + 2)
+print(5 - 2)
+print(5 * 2)
+print(5 / 2)
+print( 5 // 2)
+print(5 % 2)
+print(5 ** 2)
+
+i = 5
+i = i + 2
+i += 2
+i -= 2
+i *= 2
+
+▬▬▬ Operator Precedence ▬▬▬
+result = 3 + 5 * 2 # 16 or 13 ?
+print(result) 
+
+VISIT https://bit.ly/3LUYmdO for more info
+
+▬▬▬ Comments ▬▬▬
+# Your mom sucks 
+# haha just kidding
+
+▬▬▬ Comparison Operators ▬▬▬
+is_greater = 1 > 5
+is_lesser = 1 < 5
+# 1 <= 5
+# 1 >= 5
+is_not_equal = 1 != 5
+is_equal = 1 == 5
+
+▬▬▬ Logical Operators ▬▬▬
+# or -> (atleast one is true)
+# and -> (both are true)
+# not -> (reverses any value)
+
+number = 2
+print(number > 3)
+print(number < 3)
+print(not number > 3)
+print(not number < 3)
+
+print(number > 3 and number > 1)
+print(number > 3 or number > 1)
+
+▬▬▬ If statements ▬▬▬
+age = 13
+
+if age >= 18:
+   print("you are an adult")
+   print("Go watch some porn mate!")
+elif age < 3:
+   print("you are a child")
+   print("pogo tv sounds best for you!")
+else:
+   print("you are in school")
+print("look at girls and enjoy buddy! ")
+
+▬▬▬ Built a calculator ▬▬▬
+For calculator visit :- 
